@@ -17,7 +17,4 @@
 - Code School [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)
 
 FINAL RUBY APP:
-  https://desolate-journey-1433.herokuapp.com/articles/1
-  
-REPO:
-https://github.com/Nolawee/Blogger
+  https://github.com/Nolawee/sample_app
