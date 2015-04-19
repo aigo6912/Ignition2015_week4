@@ -16,3 +16,5 @@
 - Read the [Hartl rails tutorial chapter 2](https://www.railstutorial.org/book/toy_app) to get an inside look at building another application, similar to what you did last week.
 - Code School [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)
 
+FINAL RUBY APP:
+  https://github.com/Nolawee/sample_app
